@@ -15,11 +15,11 @@
 <br>
 <br>
 
-<p align="center">
+<h3 align = "center">
     <a href="https://job-matching-one.vercel.app/" target="_blank">
-		<h3 align = "center">🔗 LINK [Deployed]</h3>
+		🔗 LINK [Deployed]
 	</a>
-</p>
+</h3>
 <p align="center">
     https://job-matching-one.vercel.app/
 </p>
