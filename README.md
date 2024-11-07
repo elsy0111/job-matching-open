@@ -11,21 +11,21 @@
 	<img src="https://img.shields.io/github/languages/top/elsy0111/job-matching-open?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/elsy0111/job-matching-open?style=default&color=0080ff" alt="repo-language-count">
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
+
+<br>
 <br>
 
+<p align="center">
+    <a href="https://job-matching-one.vercel.app/" target="_blank">
+		<h3 align = "center">🔗 LINK [Deployed]</h3>
+	</a>
+</p>
+<p align="center">
+    https://job-matching-one.vercel.app/
+</p>
 
-<!-- 赤い文字で大きく書く -->
-<p align="center">
-	<a style=" text-decoration: none; color:cyan; font-size:2.5em;" href="https://job-matching-one.vercel.app/">🔗 LINK [Deployed]</a>
-</p>
-<p align="center">
-https://job-matching-one.vercel.app/
-</p>
+<br>
+<br>
 
 ## INDEX
 
@@ -63,8 +63,7 @@ https://job-matching-one.vercel.app/
 |      |        特徴        | 詳細                                                                                                                                                                                                                                                                                                                       |
 | :--- | :----------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ⚙️    | **アーキテクチャ** | <ul><li>フロントエンドに<code>Next.js</code>を採用し、SSRを重視した設計</li><li>バックエンドは<code>Firebase Cloud Functions</code>で管理し、ジョブマッチングロジックを含む関数を実装</li><li><code>Firebase Realtime Database</code>を用いた、リアルタイムDB設計</li><li>OAuthでセキュア認証を実現</li></ul> |
-| 🧩    |  **モジュール化**  | <ul><li>再利用可能なReactコンポーネントに分解</li><li><code>tailwind-css</code>などのCSSフレームワークを用いた動的でシンプルなスタイリング</li><li>UI、認証、データベースに関する役割分担が明確</li></ul>                                                                                                                  |
-| ⚡️    | **パフォーマンス** | <ul><li>Next.jsの静的およびサーバーレンダリングを併用した効率的な読み込み</li><li>効率的なデータ取得とキャッシュメカニズムを活用</li><li>PostCSSと<code>Tailwind CSS</code>によるスタイルパフォーマンスの最適化</li></ul>                                                                                                  |
+| 🧩    |  **コンポーネント化**  | <ul><li>再利用可能なReactコンポーネントに分解</li><li><code>tailwind-css</code>などのCSSフレームワークを用いた動的でシンプルなスタイリング</li><li>UI、認証、データベースに関する役割分担が明確</li></ul>                                                                                                                  |
 | 🛡️    |  **セキュリティ**  | <ul><li>OAuthと<code>Firebase</code>認証によるユーザーデータの保護</li><li>HTTPSリクエストを通じずにDBとの通信を行う</li></ul>                                                                                                                                                                                             |
 | 📦    |    **依存関係**    | <ul><li>JavaScriptとPythonの依存関係管理に<code>npm</code>と<code>pip</code>を使用</li><li>主要ライブラリは<code>React</code>、<code>Next.js</code>、<code>Firebase</code></li></ul>                                                                                                                                       |
 
