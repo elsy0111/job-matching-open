@@ -1,0 +1,3 @@
+*.local
+# SECRET KEYS (Firebase, OAuth, etc.)
+secrets/
