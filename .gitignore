@@ -37,6 +37,3 @@ next-env.d.ts
 
 venv/
 __pycache__/
-
-# SECRET KEYS (Firebase, OAuth, etc.)
-oauth_secret.json
