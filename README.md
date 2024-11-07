@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/elsy0111/job-matching-open/tree/master/public/logo.png" align="center" width="40%">
+    <img src="https://raw.githubusercontent.com/elsy0111/job-matching-open/refs/heads/master/public/logo.png" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">JOB-MATCHING</h1></p>
 <p align="center">
