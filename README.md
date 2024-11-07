@@ -154,7 +154,6 @@
     ├── tailwind.config.ts
     └── tsconfig.json
 ```
----
 
 ### 📂 詳細 - Details -
 (一部省略)
