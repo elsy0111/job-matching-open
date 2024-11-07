@@ -54,7 +54,14 @@
 機会を求めているエンジニアと雇用を検討している企業のために設計されたこのプロジェクトは、
 採用プロセスを高速化し、効率的で正確なジョブマッチングを実現します。
 
+> [!CAUTION] 注意 - CAUTION -
+> このリポジトリの、`/firebase/functions/secrets` ディレクトリ下、
+> また `/oauth_secret.json` ファイルの内容は、セキュリティ上の理由から公開されていません。
+> 実行する場合は、OAuth・Firebase の資格情報を取得し、適切なディレクトリに配置してください。
 
+> The contents of the `/firebase/functions/secrets` directory in this repository,
+> and the `/oauth_secret.json` file are not public for security reasons.
+> If you want to run the project, obtain the OAuth and Firebase credentials and place them in the appropriate directory.
 
 ---
 
