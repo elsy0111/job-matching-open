@@ -468,44 +468,11 @@
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/elsy0111/job-matching-open/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/elsy0111/job-matching-open/issues)**: Submit bugs found or log feature requests for the `job-matching-open` project.
-- **💡 [Submit Pull Requests](https://github.com/elsy0111/job-matching-open/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+No Thanks. 
 
-<details closed>
-<summary>Contributing Guidelines</summary>
+(Cause this repository is open, it does not have any connection with Vercel or Firebase. Therefore, I deployed a separate original repository to Vercel and Firebase.)
 
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/elsy0111/job-matching-open
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/elsy0111/job-matching-open/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=elsy0111/job-matching-open">
-   </a>
-</p>
-</details>
+このリポジトリはオープンですが、実際にデプロイしているレポジトリは別にあります。そのため、このリポジトリに対するコントリビューションは受け付けておりません。ご了承ください。
 
 ---
 
