@@ -54,7 +54,7 @@
 機会を求めているエンジニアと雇用を検討している企業のために設計されたこのプロジェクトは、
 採用プロセスを高速化し、効率的で正確なジョブマッチングを実現します。
 
-本システムの詳しい説明は [こちら](https://git) からご覧いただけます。
+本システムの詳しい説明は [こちら](https://github.com/elsy0111/job-matching-open/blob/master/materials/Description(ja).pdf) からご覧いただけます。
 
 > [!CAUTION]
 > このリポジトリの、`/firebase/functions/secrets` ディレクトリ下、
