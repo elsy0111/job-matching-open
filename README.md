@@ -18,9 +18,14 @@
 </p>
 <br>
 
-### 🔗  TRY IT OUT 今すぐ試す
-### &nbsp;&nbsp;[Job-Matching](https://job-matching-one.vercel.app/) 
-&nbsp; https://job-matching-one.vercel.app/
+
+<!-- 赤い文字で大きく書く -->
+<p align="center">
+	<a style=" text-decoration: none; color:cyan; font-size:2.5em;" href="https://job-matching-one.vercel.app/">🔗 LINK [Deployed]</a>
+</p>
+<p align="center">
+https://job-matching-one.vercel.app/
+</p>
 
 ## INDEX
 
@@ -48,6 +53,8 @@
 
 機会を求めているエンジニアと雇用を検討している企業のために設計されたこのプロジェクトは、
 採用プロセスを高速化し、効率的で正確なジョブマッチングを実現します。
+
+
 
 ---
 
